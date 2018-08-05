@@ -1,0 +1,9 @@
+Package: com.neinzedd9.classicdockx
+Name: Classic Dock for iPhone X
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Turns the iPhone X's dock into the iPhone 6/7/8 style.
+Maintainer: NeinZedd9
+Author: NeinZedd9
+Section: Tweaks
